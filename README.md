@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyozpada&label=Profile%20views&color=0e75b6&style=flat" alt="gyozpada" /> </p>
 
-- 🌱 I’m currently learning **Selenium And Appium Testing**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/gyozpada?tab=repositories).
 
