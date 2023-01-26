@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Galang Satria</h1>
-<h3 align="center">A passionate Javascript developer from Tulungagung</h3>
+<h3 align="center">A passionate Software Quality Assurance from Tulungagung</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyozpada&label=Profile%20views&color=0e75b6&style=flat" alt="gyozpada" /> </p>
 
-- 🌱 I’m currently learning **Javascript for automation testing**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/gyozpada?tab=repositories).
 
