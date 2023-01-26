@@ -37,8 +37,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gyozpada&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyozpada&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gyozpada&show_icons=true&theme=dark&locale=en" alt="gyozpada" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyozpada&show_icons=true&theme=dark&locale=en&layout=compact" alt="gyozpada" /></td>
   </tr>
 </table>
 <div align="center">
