@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Galang Satria</h1>
-<h3 align="center">A passionate Software Quality Assurance from Tulungagung</h3>
+<h3 align="center">A passionate Frontend Developer from Tulungagung</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/zubairehman/Portfolio-Demo/raw/master/web/assets/images/programmer-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyozpada&label=Profile%20views&color=0e75b6&style=flat" alt="gyozpada" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **Frontend Developer**
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/gyozpada?tab=repositories).
 
